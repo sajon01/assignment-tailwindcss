@@ -6,6 +6,10 @@
     @apply font-bold text-lg border-b-[1px] border-[#F9CCC7] pb-3;
 }
 
+.courses{
+    @apply border border-black rounded-full px-3 py-0.5;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
